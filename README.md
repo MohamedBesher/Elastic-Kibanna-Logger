@@ -1,5 +1,5 @@
 # Setting up Logging with Elasticsearch, Kibana, and ASP.NET Core
- Elasticsearch and Kibana are powerful tools for managing and visualizing logs. I used Serilog sinks for logging.
+ Elasticsearch and Kibana are powerful tools for managing and visualizing logs. I used Serilog sinks for logging into Elastic.
 
 ### Prerequisites
   - docker app
