@@ -1,1 +1,1 @@
-# Proof-Concept
+# Elastic-Kibanna-Logger
