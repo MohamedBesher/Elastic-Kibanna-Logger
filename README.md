@@ -2,7 +2,7 @@
  Elasticsearch and Kibana are powerful tools for managing and visualizing logs. I used Serilog sinks for logging into Elastic.
 
 ### Prerequisites
-  - docker app
+  - docker app (elastic image + kibanna image)
   - visual studio or visual code
 
 ### Packages 
