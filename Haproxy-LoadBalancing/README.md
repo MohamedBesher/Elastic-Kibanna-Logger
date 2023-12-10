@@ -6,4 +6,4 @@ The Reliable, High Performance TCP/HTTP Load Balancer. It is open source and use
 
 
 # Architecture 
-![alt](images/1_QFaNFO8oXl3zNK7-oQm6cQ.webp.png)
+![alt](images/1_QFaNFO8oXl3zNK7-oQm6cQ.webp)
