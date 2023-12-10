@@ -16,7 +16,7 @@ The Reliable, High Performance TCP/HTTP Load Balancer. It is open source and use
 - Change environment ASPNETCORE_HTTP_PORTS (default : 8080).
 - Add haproxy config file.
 
-# resouces 
+# Resouces 
 https://www.youtube.com/watch?v=9sAg7RooEDc&ab_channel=HusseinNasser
 
 https://medium.com/@SabujJanaCodes/hands-on-haproxy-loadbalancing-with-go-and-docker-compose-part-1-71ce6551f601
