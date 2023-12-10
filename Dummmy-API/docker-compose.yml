@@ -1,0 +1,24 @@
+version: '1.3'
+services:
+    lb: 
+      image : haproxy
+      ports :
+        - "8080:8080"
+      volumes:
+          - ./haproxy:/usr/local/etc/haproxy
+      
+    nodeapp1:
+      image: dummyapi
+      environment:
+            - ASPNETCORE_HTTP_PORTS=1111
+     
+    nodeapp2:
+      image: dummyapi
+      environment:
+            - ASPNETCORE_HTTP_PORTS=2222
+        
+    nodeapp3:
+      image: dummyapi
+      environment:
+            - ASPNETCORE_HTTP_PORTS=3333
+      
